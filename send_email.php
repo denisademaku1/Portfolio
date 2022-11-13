@@ -49,7 +49,7 @@ if( isset($_POST) ){
 	if($formok){
 		$headers = "From: {$email}" . "\r\n";
 		$headers .= 'Content-type: text/html; charset=iso-8859-1' . "\r\n";
-		$emailbody = "<p>You have received a new message from the contact form on denisademaku.com</p>
+		$emailbody = "<p>You have received a new message from the contact form on denisademaku1.com</p>
 					<hr />
 					<p><strong>Name/Company name: </strong> {$name} </p>
 					<p><strong>Email Address: </strong> {$email} </p>

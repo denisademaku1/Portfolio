@@ -143,3 +143,31 @@ img {
     width: 100%;
     bottom: 0;
   }
+
+*----- Case Study pages -----*/
+.case-study {
+  padding-top:90px
+}
+.case-study h2 {
+  font-size: 2em;
+  padding-top: 5%;
+}
+.case-study-header img.logo {
+  width: 70vw;
+}
+.case-study section {
+  background-color: transparent;
+  background-image: none;
+  padding: 8% 8% 0% 8%;
+}
+.case-study-header,
+.case-study .img-wrapper {
+  padding: 8% 8% 0% 8%;
+}
+.case-study .button {
+  margin: 3% 0%;
+}
+.case-study span {
+  font-weight: bold;
+}
+
